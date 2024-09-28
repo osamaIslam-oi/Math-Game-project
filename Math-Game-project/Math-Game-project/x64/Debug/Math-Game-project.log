@@ -1,0 +1,8 @@
+﻿  Math-Game-project.cpp
+C:\Users\ossa6\source\repos\Math-Game-project\Math-Game-project\Math-Game-project.cpp(232,25): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+C:\Users\ossa6\source\repos\Math-Game-project\Math-Game-project\Math-Game-project.cpp(232,25): warning C4305:         with
+C:\Users\ossa6\source\repos\Math-Game-project\Math-Game-project\Math-Game-project.cpp(232,25): warning C4305:         [
+C:\Users\ossa6\source\repos\Math-Game-project\Math-Game-project\Math-Game-project.cpp(232,25): warning C4305:             _Elem=char
+C:\Users\ossa6\source\repos\Math-Game-project\Math-Game-project\Math-Game-project.cpp(232,25): warning C4305:         ]
+C:\Users\ossa6\source\repos\Math-Game-project\Math-Game-project\Math-Game-project.cpp(232,25): warning C4309: 'argument': truncation of constant value
+  Math-Game-project.vcxproj -> C:\Users\ossa6\source\repos\Math-Game-project\x64\Debug\Math-Game-project.exe
